@@ -1,0 +1,8 @@
+roles:
+  - src: https://github.com/RaghdaSallam/Apache_Role_Ansible
+    scm: git
+    version: main
+
+  - src: https://github.com/RaghdaSallam/Ntp_Role_Ansible
+    scm: git
+    version: main
